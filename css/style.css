@@ -93,10 +93,13 @@ margin: 0 auto;
      }
 }
 
-@media(max-width: 480px){
+@media(max-width:600px){
 
      header img {
-      margin:32px 75px  16px;
+      display: block;
+      margin: 32px auto 0 auto;
+      max-width: 100%;
+      height: auto;
  }
  h1 {
      font-size: 40px; 
