@@ -93,10 +93,10 @@ margin: 0 auto;
      }
 }
 
-@media(max-width: 375px){
+@media(max-width: 480px){
 
      header img {
-      margin:32px 0 0 16px;
+      margin:32px 75px  16px;
  }
  h1 {
      font-size: 40px; 
